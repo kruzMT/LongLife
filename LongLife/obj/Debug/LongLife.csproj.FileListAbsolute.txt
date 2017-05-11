@@ -1,0 +1,6 @@
+C:\Users\j.miguel.cruz\Desktop\C#\LongLife\LongLife\bin\Debug\LongLife.exe.config
+C:\Users\j.miguel.cruz\Desktop\C#\LongLife\LongLife\bin\Debug\LongLife.exe
+C:\Users\j.miguel.cruz\Desktop\C#\LongLife\LongLife\bin\Debug\LongLife.pdb
+C:\Users\j.miguel.cruz\Desktop\C#\LongLife\LongLife\obj\Debug\LongLife.csprojResolveAssemblyReference.cache
+C:\Users\j.miguel.cruz\Desktop\C#\LongLife\LongLife\obj\Debug\LongLife.exe
+C:\Users\j.miguel.cruz\Desktop\C#\LongLife\LongLife\obj\Debug\LongLife.pdb
